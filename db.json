@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Saul Renato",
+      "lastName": "Moreyra",
+      "email": "saul@moreyta.com",
+      "mobile": "34343434",
+      "salary": "494994949"
+    },
+    {
+      "id": 2,
+      "firstName": "Deisy",
+      "lastName": "Ignacio",
+      "email": "deisy@ignacio.com",
+      "mobile": "34343434",
+      "salary": "494994949"
+    }
+  ],
+  "comments": [],
+  "profile": {}
+}
